@@ -1400,7 +1400,7 @@ DevOps Practices:
 
 **Issued:** January 2025
 
-[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-6366F1?style=for-the-badge)](https://my-portfolio-hazel-seven-40.vercel.app/certificates/nexium-certificate.pdf)
+[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-6366F1?style=for-the-badge)](https://C:/Users/user/Downloads/Nexium Certificate.pdf)
 
 </div>
 
