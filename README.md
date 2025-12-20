@@ -1400,7 +1400,7 @@ DevOps Practices:
 
 **Issued:** January 2025
 
-[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-6366F1?style=for-the-badge)](https://github.com/ShahzebFaisal5649/ShahzebFaisal5649/blob/main/Nexium-Certificate.jpeg))
+[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-6366F1?style=for-the-badge)](https://github.com/ShahzebFaisal5649/ShahzebFaisal5649/blob/main/Nexium-Certificate.jpeg)
 
 </div>
 
@@ -1416,7 +1416,7 @@ DevOps Practices:
 
 **Issued:** September 2024
 
-[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-06B6D4?style=for-the-badge)](https://my-portfolio-hazel-seven-40.vercel.app/certificates/technology-academy-certificate.pdf)
+[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-06B6D4?style=for-the-badge)](https://github.com/ShahzebFaisal5649/ShahzebFaisal5649/blob/main/Technological-Academy-Certificate.jpeg)
 
 </div>
 
@@ -1434,8 +1434,7 @@ DevOps Practices:
 
 **Issued:** July 2024
 
-[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-3776AB?style=for-the-badge)](https://my-portfolio-hazel-seven-40.vercel.app/certificates/codealpha-certificate.pdf)
-
+[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-3776AB?style=for-the-badge)](https://github.com/ShahzebFaisal5649/ShahzebFaisal5649/blob/main/Code-Alpha-Certificate.jpeg)
 </div>
 
 </td>
@@ -1450,7 +1449,7 @@ DevOps Practices:
 
 **Issued:** August 2024
 
-[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-4479A1?style=for-the-badge)](https://my-portfolio-hazel-seven-40.vercel.app/certificates/kashf-foundation-certificate.pdf)
+[![View Certificate](https://img.shields.io/badge/📜_View_Certificate-4479A1?style=for-the-badge)](https://github.com/ShahzebFaisal5649/ShahzebFaisal5649/blob/main/Kashf-Certificate.jpeg)
 
 </div>
 
